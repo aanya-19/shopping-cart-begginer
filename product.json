@@ -1,0 +1,44 @@
+[
+{
+    "id":1,
+    "name":"Vanilla bean",
+    "price":7.00,
+    "image":"images/image-creme-brulee-desktop.jpg"
+},
+{
+    "id":2,
+    "name":"Macron, mix of 5",
+    "price":8.50,
+    "image":"images/image-macaron-desktop.jpg"
+},{
+    "id":3,
+    "name":"Tiramisu",
+    "price":5.50,
+    "image":"images/image-tiramisu-desktop.jpg"
+},{
+    "id":4,
+    "name":"Pistachio Baklava",
+    "price":4.00,
+    "image":"images/image-baklava-desktop.jpg"
+},{
+    "id":5,
+    "name":"Lemon maringue pie",
+    "price":5.00,
+    "image":"images/image-meringue-desktop.jpg"
+},{
+    "id":6,
+    "name":"Redvelvet cake",
+    "price":4.50,
+    "image":"images/image-cake-desktop.jpg"
+},{
+    "id":7,
+    "name":"Salted caramel brownie",
+    "price":5.50,
+    "image":"images/image-brownie-desktop.jpg"
+},{
+    "id":8,
+    "name":"Vanilla panna cotta",
+    "price":6.50,
+    "image":"images/image-panna-cotta-desktop.jpg"
+}
+]
