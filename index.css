@@ -155,9 +155,9 @@ span{
         grid-template-columns: repeat(2,1fr);
     }
     .shopping-cart{
-        width: 350px;
+        width: 300px;
     }
     .shopping-cart .list-cart .item .quantity span{
-        width:20px;
+        width:15px;
     }
 }
