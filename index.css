@@ -150,7 +150,7 @@ span{
         grid-template-columns: repeat(3,1fr);
     }
 }
-@media screen and (max-width: 350px){
+@media screen and (max-width: 370px){
     .list-products{
         grid-template-columns: repeat(2,1fr);
     }
