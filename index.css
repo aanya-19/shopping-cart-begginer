@@ -150,8 +150,19 @@ span{
         grid-template-columns: repeat(3,1fr);
     }
 }
-@media screen and (max-width: 758px){
+@media screen and (max-width: 3988px){
     .list-products{
         grid-template-columns: repeat(2,1fr);
     }
+    @media screen and (max-width: 396px){
+    .list-products{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .shopping-cart{
+        width: 350px;
+    }
+    .shopping-cart .list-cart .item .quantity span{
+        width:20px;
+    }
+}
 }
