@@ -154,7 +154,7 @@ span{
     .list-products{
         grid-template-columns: repeat(2,1fr);
     }
-    @media screen and (max-width: 396px){
+    @media screen and (max-width: 350px){
     .list-products{
         grid-template-columns: repeat(2,1fr);
     }
