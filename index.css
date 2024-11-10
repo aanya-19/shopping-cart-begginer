@@ -74,6 +74,10 @@ header .icon-cart span{
     margin-top: 10px;
     cursor: pointer;
 }
+.list-products .item button:hover{
+    background-color:black;
+    color:white;
+}
 
 /* shopping cart */
 .shopping-cart{
