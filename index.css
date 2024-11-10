@@ -155,7 +155,7 @@ span{
         grid-template-columns: repeat(2,1fr);
     }
     .shopping-cart{
-        width: 200px;
+        width: 100%;
     }
     .shopping-cart .list-cart .item .quantity span{
         width:15px;
